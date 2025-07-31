@@ -8,3 +8,4 @@ An algorithm specifically for designing RNA translated in mitochondria.
 - 1. 这个功能已经有人做过了，我再做的意义不大（没有什么原创性的东西）
   2. 这个项目的实际社会价值有待商榷，线性RNA设计平台可能不多（linearDesign还挺有用的），但是circDesign的原理真的靠谱吗，modenra之类的大型RNA企业是怎么设计RNA的呢？也使用这个平台吗？还是有什么其他方法？
   3. 对于我来说还是稍微有点难度的，还是要学不少东西，以及服务器的使用、运营、维护等等，需要花不少时间，（时间）性价比有待考虑
+#### 以及是否会有侵权风险？
