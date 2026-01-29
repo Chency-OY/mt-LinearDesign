@@ -1,3 +1,17 @@
+# 在做，预计2月上传
+
+
+
+
+
+
+
+
+
+
+
+
+
 # mt-LinearDesign
 An algorithm specifically for designing RNA translated in mitochondria.
 ### 本来打算传到github上的，但是仔细想了一下好像什么特别大的原创性贡献，就是把百度的linearDesign的一些密码子改成了线粒体里适配的而已
